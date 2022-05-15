@@ -1,1 +1,2 @@
-Adicionando novo commit
+Adicionando novo commit1
+funcao nova adicionado 2
